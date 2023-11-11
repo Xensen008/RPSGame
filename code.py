@@ -42,6 +42,6 @@ while True:
     print("Computer score:", computer_score)
     print("Your score:", user_score)
     
-    play_again = input("\nDo you want to play again? Enter 'yes' or 'no': ")
-    if play_again.lower() != 'yes':
+    play_again = input("\nDo you want to play again? Enter 'y' or 'n': ")
+    if play_again.lower() != 'y':
         break
