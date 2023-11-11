@@ -12,17 +12,17 @@ The program prompts the user to input their choice (0 for rock, 1 for paper, or 
 
 2.**Game Logic:**
 
--The game determines the winner based on the rules of Rock, Paper, Scissors.
--The outcome (win, lose, or tie) is displayed after each round.
+- The game determines the winner based on the rules of Rock, Paper, Scissors.
+- The outcome (win, lose, or tie) is displayed after each round.
 
 3.**Score Tracking:**
 
--The program keeps track of the user's and computer's scores throughout the game.
--At the end of the game, it displays a summary with both players' final scores.
+- The program keeps track of the user's and computer's scores throughout the game.
+- At the end of the game, it displays a summary with both players' final scores.
 
 4.**Random Computer Choices:**
 
--The computer makes random choices to keep the game unpredictable and challenging.
+- The computer makes random choices to keep the game unpredictable and challenging.
 
 **How to Play:**
 1.Run the program.
