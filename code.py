@@ -24,7 +24,7 @@ def determine_winner(computer_choice, user_choice):
         print("You win!")
         return "user"
 
-# Main Program
+# Main Program is important
 print("Welcome to Rock, Paper, Scissors!")
 computer_score = 0
 user_score = 0
